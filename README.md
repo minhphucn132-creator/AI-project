@@ -1,5 +1,4 @@
 # AI-project
 first project of two university students
 
-
-Le Minh Hieu 123
+Le Minh Hieu huce
